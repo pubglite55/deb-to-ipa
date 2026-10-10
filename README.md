@@ -1,10 +1,16 @@
 # Deb to IPA
 
+<p align="center">
+  <a href="https://github.com/pubglite55/deb-to-ipa/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/pubglite55/deb-to-ipa?style=flat-square&label=Stars"></a>
+  <a href="https://github.com/pubglite55/deb-to-ipa/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/pubglite55/deb-to-ipa?style=flat-square&label=Last%20Commit"></a>
+  <a href="https://github.com/pubglite55/deb-to-ipa/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/pubglite55/deb-to-ipa?style=flat-square&label=License"></a>
+</p>
+
 ▶️ Convert an application from a deb to an IPA with a GitHub workflow.
 
 ---
 
-# How to use
+## How to use
 
 * Click fork on the top right, then click create fork
    * A GitHub account is required, it's free!
